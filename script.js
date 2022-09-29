@@ -48,7 +48,7 @@ let songs = [
     coverPath: "covers/4.jpg",
   },
   {
-    songName: "Last Ride- S idhu Moose Wala",
+    songName: "Last Ride- Sidhu Moose Wala",
     filePath: "songs/2.mp3",
     coverPath: "covers/1.jpg",
   },
